@@ -1,7 +1,7 @@
-# Cactus Theme for Jekyll
+# Dark Cactus Theme for Jekyll
 
-This is a port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
-Feel free to fork, change, modify and re-use it.
+
+This is a fork of [Kactus](https://github.com/nickbalestra/kactus), which is a port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
 
 ## How to use it
 
@@ -22,8 +22,8 @@ Cactus theme includes:
 
 ## Screenshots
 
-![index page](https://raw.githubusercontent.com/nickbalestra/kactus/master/assets/images/Kactus-theme-index.png)
-![post page](https://raw.githubusercontent.com/nickbalestra/kactus/master/assets/images/Kactus-theme-post.png)
+![index page](https://raw.githubusercontent.com/flxn/kactus-dark/master/assets/images/Kactus-dark-theme-index.png)
+![post page](https://raw.githubusercontent.com/flxn/kactus-dark/master/assets/images/Kactus-dark-theme-post.png)
 
 
 ## Thanks
